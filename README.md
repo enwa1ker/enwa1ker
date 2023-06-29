@@ -1,7 +1,8 @@
-Hi 👋 My name is Ermek
+# Hi 👋 My name is Ermek
 
 Beginner Frontend Developer👨‍💻 
   
+---
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/enwa1ker/github-profilinator)  
   
@@ -16,6 +17,7 @@ Beginner Frontend Developer👨‍💻
 
 <br/>  
 
+---
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -58,9 +60,13 @@ Beginner Frontend Developer👨‍💻
 
 <br/>  
 
+---
+
 ### Socials
                   
 <p align="left"> <a href="https://www.codepen.io/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+---
 
 ### Badges
 
