@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://tenor.com/search/coding-gif-gifs" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Ermek, a beginner frontend developer 👨‍💻</div>  
   
 
