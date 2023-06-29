@@ -1,15 +1,17 @@
-### <div align="center">I'm Ermek, a beginner frontend developer 👨‍💻</div>  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ermek
+
+
+Beginner Frontend Developer👨‍💻 
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/enwa1ker/github-profilinator)  
   
+-  ✉️  You can contact me at [eakbagysov@gmail.com](mailto:eakbagysov@gmail.com) 
 
 - 🌱 I’m currently learning new frameworks  
-  
 
 - ❓ Ask me about anything Frontend  
   
-
 - ⚡ Fun fact:   I collect and assemble Rubik's Cubes  
   
 
@@ -57,6 +59,9 @@
 
 <br/>  
 
+### Socials
+                  
+                  <p align="left"> <a href="https://www.codepen.io/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/enwa1ker" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
