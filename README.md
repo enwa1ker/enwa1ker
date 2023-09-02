@@ -8,7 +8,7 @@ Beginner Frontend Developer👨‍💻
   
 -  ✉️  You can contact me at [eakbagysov@gmail.com](mailto:eakbagysov@gmail.com) 
 
-- 🌱 I’m currently learning new frameworks  
+- 🌱 I’m currently learning new frameworks
 
 - ❓ Ask me about anything Frontend  
   
