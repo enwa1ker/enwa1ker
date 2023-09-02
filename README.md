@@ -4,7 +4,7 @@ Beginner Frontend Developer👨‍💻
   
 ---
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/enwa1ker/github-profilinator)  
+- 🔭 I’m currently working on [JS calculator](https://github.com/enwa1ker/calculatorJS)  
   
 -  ✉️  You can contact me at [eakbagysov@gmail.com](mailto:eakbagysov@gmail.com) 
 
