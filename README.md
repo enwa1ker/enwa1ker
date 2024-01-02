@@ -4,7 +4,7 @@ Beginner Frontend Developer👨‍💻
   
 ---
 
-- 🔭 I’m currently working on [WeatherApp](https://github.com/enwa1ker/WeatherApp)  
+- 🔭 I’m currently working on [WeatherApp](https://github.com/enwa1ker/weather_app)  
   
 -  ✉️  You can contact me at [eakbagysov@gmail.com](mailto:eakbagysov@gmail.com) 
 
