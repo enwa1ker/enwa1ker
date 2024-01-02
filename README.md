@@ -4,7 +4,7 @@ Beginner Frontend Developer👨‍💻
   
 ---
 
-- 🔭 I’m currently working on [JS calculator](https://github.com/enwa1ker/calculatorJS)  
+- 🔭 I’m currently working on [WeatherApp](https://github.com/enwa1ker/WeatherApp)  
   
 -  ✉️  You can contact me at [eakbagysov@gmail.com](mailto:eakbagysov@gmail.com) 
 
