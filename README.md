@@ -8,11 +8,11 @@ Beginner Frontend Developer👨‍💻
   
 -  ✉️  You can contact me at [eakbagysov@gmail.com](mailto:eakbagysov@gmail.com) || [telegram](https://t.me/enwa1ker) || [IG](https://instagram.com/enwa1ker)
 
-- 🌱 I’m currently learning new frameworks
+- 🌱 I’m currently learning react
 
 - ❓ Ask me about anything Frontend  
   
-- ⚡ Fun fact:   I collect and assemble Rubik's Cubes  
+- ⚡ Fun fact:  I collect and assemble Rubik's Cubes  
   
 
 <br/>  
