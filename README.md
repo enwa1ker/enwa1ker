@@ -6,7 +6,7 @@ Beginner Frontend Developer and QA tester👨‍💻
 
 - 🔭 I’m currently working on [React sneakers](https://github.com/enwa1ker/react_sneakers)  
   
--  ✉️  You can contact me at [gmail](mailto:eakbagysov@gmail.com) || [telegram](https://t.me/enwa1ker) || [IG](https://instagram.com/enwa1ker)
+-  ✉️  You can contact me at [Gmail](mailto:eakbagysov@gmail.com) 
 
 - 🌱 I’m currently learning TypeScript
 
