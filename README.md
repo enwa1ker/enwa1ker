@@ -1,6 +1,6 @@
 # Hi 👋 My name is Ermek
 
-Beginner Frontend Developer and QA tester👨‍💻 
+Beginner Frontend Developer👨‍💻 
   
 ---
 
@@ -8,7 +8,7 @@ Beginner Frontend Developer and QA tester👨‍💻
   
 -  ✉️  You can contact me at Gmail](mailto:eakbagysov@gmail.com) 
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and new frameworks
 
 - ❓ Ask me about anything Frontend  
   
