@@ -6,9 +6,9 @@ Beginner Frontend Developer👨‍💻
 
 - 🔭 I’m currently working on [Typescript](https://github.com/enwa1ker/typescript_project)  
   
--  ✉️  You can contact me at [Gmail](mailto:eakbagysov@gmail.com) 
+-  ✉️  You can contact me at [Gmail](mailto:eakbagysov@gmail.com) || [tg](https://t.me/enwa1ker)
 
-- 🌱 I’m currently learning TypeScript and new frameworks
+- 🌱 I’m currently learning TypeScript
 
 - ❓ Ask me about anything Frontend  
   
