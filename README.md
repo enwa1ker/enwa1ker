@@ -1,6 +1,6 @@
 # Hi 👋 My name is Ermek
 
-Beginner Frontend Developer👨‍💻 
+Frontend Developer👨‍💻 
   
 ---
 
