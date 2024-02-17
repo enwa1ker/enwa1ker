@@ -82,3 +82,4 @@ Frontend Developer👨‍💻
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=enwa1ker)
+[![](https://visitcount.itsvg.in/api?id=enwa1ker&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
