@@ -8,7 +8,7 @@ Frontend Developer👨‍💻
   
 -  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript && SQL && && Python &&Frameworks
 
 - ❓ Ask me about anything Frontend  
   
