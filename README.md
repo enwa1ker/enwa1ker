@@ -4,11 +4,11 @@ Frontend Developer👨‍💻
   
 ---
 
-- 🔭 I’m currently working on [Typescript](https://github.com/enwa1ker/typescript_project)  
+- 🔭 I’m currently working on [](https://github.com/enwa1ker)  
   
 -  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
 
-- 🌱 I’m currently learning TypeScript && SQL && && Python &&Frameworks
+- 🌱 I’m currently learning TypeScript && SQL && Python && Frameworks
 
 - ❓ Ask me about anything Frontend  
   
