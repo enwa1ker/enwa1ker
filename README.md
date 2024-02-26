@@ -95,9 +95,11 @@ Frontend Developer👨‍💻
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/enwa1ker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enwa1ker&stroke=ffffff&background=171717&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![enwa1ker's Stats](https://github-readme-stats.vercel.app/api?username=enwa1ker&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<a href="https://github.com/enwa1ker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enwa1ker&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![enwa1ker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enwa1ker&theme=vue-dark&hide_border=true)
+
+![enwa1ker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enwa1ker&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ---
