@@ -100,7 +100,7 @@ Frontend Developer👨‍💻
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/enwa1ker">
+  <a href="https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=enwa1ker&count=5" alt="Spotify recently played"  />
   </a>
 </div>
