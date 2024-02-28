@@ -1,8 +1,8 @@
-# Hi 👋 My name is Ermek
+## ✨ About Me
+
+Hi 👋 My name is Ermek
 
 Frontend Developer👨‍💻 
-  
-## ✨ About Me
 
 - 🔭 I’m currently working on [](https://github.com/enwa1ker)  
   
