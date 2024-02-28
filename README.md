@@ -23,6 +23,9 @@ Frontend Developer👨‍💻
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+# 💻 Tech Stack:
+
 <div style="display: flex; >
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="chatGPT logo" />
   <img src="https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=fff" alt="google bard" /> 
@@ -60,6 +63,8 @@ Frontend Developer👨‍💻
 </div>
 
 ###
+
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enwa1ker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
