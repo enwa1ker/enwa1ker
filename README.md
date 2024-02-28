@@ -89,8 +89,5 @@ Frontend Developer👨‍💻
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/enwa1ker/count.svg?"  />
-</div>
-
+[![](https://visitcount.itsvg.in/api?id=enwa1ker&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ###
