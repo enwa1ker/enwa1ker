@@ -2,7 +2,7 @@
 
 Frontend Developer👨‍💻 
   
----
+## ✨ About Me
 
 - 🔭 I’m currently working on [](https://github.com/enwa1ker)  
   
@@ -64,9 +64,10 @@ Frontend Developer👨‍💻
 
 ###
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div style="display: flex; >
+
   <img src="https://github-readme-stats.vercel.app/api?username=enwa1ker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 
 
@@ -79,11 +80,14 @@ Frontend Developer👨‍💻
 </div>
 
 
-  <img src="https://github-profile-trophy.vercel.app?username=enwa1ker&theme=dark_lover&column=4&row=1&margin-w=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app?username=enwa1ker&theme=dark_lover&column=4&row=1&margin-w=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 
 
 ###
 
+## 📈 Profile Views
 [![](https://visitcount.itsvg.in/api?id=enwa1ker&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ###
