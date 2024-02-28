@@ -82,10 +82,6 @@ Frontend Developer👨‍💻
   <img src="https://github-profile-trophy.vercel.app?username=enwa1ker&theme=dark_lover&column=4&row=1&margin-w=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enwa1ker&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 
 ###
 
