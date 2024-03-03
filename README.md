@@ -5,7 +5,7 @@ Hi 👋 My name is Ermek
 Frontend Developer👨‍💻 
 
 - 🔭 I’m currently working on [](https://github.com/enwa1ker)  
-  
+   
 -  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
 
 - 🌱 I’m currently learning TypeScript && SQL && Python && Frameworks
