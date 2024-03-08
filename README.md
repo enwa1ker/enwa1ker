@@ -4,7 +4,7 @@ Hi 👋 My name is Ermek
 
 Frontend Developer👨‍💻 
 
-- 🔭 I’m currently working on [](https://github.com/enwa1ker)  
+- 🔭 I’m currently working on [CS:GO items website](https://github.com/enwa1ker/cs_ws)  
    
 -  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
 
