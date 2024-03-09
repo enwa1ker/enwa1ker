@@ -2,6 +2,8 @@
 
 Hi 👋 My name is Ermek
 
+16 y. o.
+
 Frontend Developer👨‍💻 
 
 - 🔭 I’m currently working on [CS:GO items website](https://github.com/enwa1ker/cs_ws)  
