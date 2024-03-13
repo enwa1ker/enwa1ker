@@ -1,4 +1,25 @@
+## ✨ About Me
 
+Hi 👋 My name is Ermek
+
+16 y. o.
+
+Frontend Developer👨‍💻 
+
+- 🔭 I’m currently working on [CS:GO items website](https://github.com/enwa1ker/cs_ws)  
+   
+-  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
+
+- 🌱 I’m currently learning TypeScript && SQL && Python && Frameworks
+
+- ❓ Ask me about anything for programming
+  
+- ⚡ Fun fact:  I collect and assemble Rubik's Cubes  
+  
+
+<br/>  
+
+---
 
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
