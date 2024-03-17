@@ -6,7 +6,7 @@ Hi 👋 My name is Ermek
 
 Frontend Developer👨‍💻 
 
-- 🔭 I’m currently working on [CS:GO items website](https://github.com/enwa1ker/cs_ws)  
+- 🔭 I’m currently working on [LIOR DEV](https://github.com/enwa1ker/lior_dev)  
    
 -  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
 
