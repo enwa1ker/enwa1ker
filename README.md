@@ -6,13 +6,13 @@ Hi 👋 My name is Ermek
 
 Frontend Developer👨‍💻 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on GAGAGA HUB
    
 -  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
 
-- 🌱 I’m currently learning TypeScript && SQL && Python && Frameworks
+- 🌱 I’m currently learning TypeScript
 
-- ❓ Ask me about anything for programming
+- ❓ Ask me about anything for Frontend development
   
 - ⚡ Fun fact:  I collect and assemble Rubik's Cubes  
   
