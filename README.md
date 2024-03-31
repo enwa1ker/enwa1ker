@@ -2,7 +2,7 @@
 
 Hi 👋 My name is Ermek
 
-16 y. o.
+16 y.o.
 
 Frontend Developer👨‍💻 
 
