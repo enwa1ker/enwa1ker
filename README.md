@@ -7,7 +7,7 @@ Hi 👋 My name is Ermek
 Frontend Developer👨‍💻 
 
 - 🔭 I’m currently working on GAGAGA HUB
-   
+    
 -  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
 
 - 🌱 I’m currently learning TypeScript
