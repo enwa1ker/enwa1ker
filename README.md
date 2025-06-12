@@ -6,11 +6,11 @@ Hi 👋 My name is Ermek
 
 Frontend Developer👨‍💻 
 
-- 🔭 I’m currently working on GAGAGA HUB
+- 🔭 I’m currently looking for a job
     
--  ✉️  You can contact me at [mail](mailto:etendaus@gmail.com)
+-  ✉️  You can contact me at [mail](mailto:eakbagysov@gmail.com)
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently explore Vue
 
 - ❓ Ask me about anything for Frontend development
   
